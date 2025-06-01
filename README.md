@@ -1,4 +1,4 @@
-# Hi, I'm Anita 👋
+# Hi, I'm Anita 🍋
 
 I’m a Java backend developer who builds practical systems and writes about the parts most tutorials skip. I work with Spring Boot and care about clear, understandable code.
 
