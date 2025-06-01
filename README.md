@@ -11,7 +11,7 @@ Most of my day-to-day involves:
 - Communicating with teammates and business representatives to clarify requirements and expectations
 - Documenting processes and decisions so that everyone has a clear understanding without having to guess
 
-## ✍️ I like to write about things I've struggled with
+## ✍️ What I write about
 I like answering questions I’ve asked myself — and probably ones you've asked too. Most of my posts live on [Medium](https://medium.com/@anitalakhadze).
 
 If you've ever googled something like:
