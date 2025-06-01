@@ -6,10 +6,10 @@ I'm a Java backend developer who enjoys building practical, maintainable systems
 Most of my day-to-day involves:
 - Building and maintaining Spring Boot microservices with IntelliJ IDEA
 - Working with MongoDB and PostgreSQL
-- Writing tests - from unit tests to integration tests using Cucumber
-- Docker and GitLab CI for builds and pipelines, often on OpenShift or Kubernetes
-- Communicating with teammates and business representatives to clarify requirements and expectations
-- Documenting processes and decisions so that everyone has a clear understanding without having to guess
+- Writing unit tests and integration tests using Cucumber
+- Working with Docker and GitLab CI for builds and pipelines, often on OpenShift
+- Communicating with teammates and business representatives
+- Documenting processes and decisions
 
 ## ✍️ What I write about
 I like answering questions I’ve asked myself — and probably ones you've asked too. Most of my posts live on [Medium](https://medium.com/@anitalakhadze).
