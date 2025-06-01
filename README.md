@@ -12,9 +12,7 @@ Most of my day-to-day involves:
 - Documenting processes and decisions so that everyone has a clear understanding without having to guess
 
 ## ✍️ I like to write about things I've struggled with
-I like answering questions I’ve asked myself — and probably ones you've asked too.
-
-Most of my posts live on [Medium](https://medium.com/@anitalakhadze), where I share real-world problems and how I worked through them. 
+I like answering questions I’ve asked myself — and probably ones you've asked too. Most of my posts live on [Medium](https://medium.com/@anitalakhadze).
 
 If you've ever googled something like:
 - What is software entropy?
