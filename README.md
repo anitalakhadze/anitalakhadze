@@ -11,7 +11,7 @@ I’m a Java backend developer who builds practical systems and writes about the
 - Documenting processes and decisions
 
 ## 📝 What I write about
-Most of my posts live on [Medium](https://medium.com/@anitalakhadze). I like answering questions I’ve asked myself — and probably ones you've asked too:
+Most of my blogs live on [Medium](https://medium.com/@anitalakhadze). I like answering questions I’ve asked myself — and probably ones you've asked too:
 
 - What is software entropy?
 - Should I squash my Git commits?
