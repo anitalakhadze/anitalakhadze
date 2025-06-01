@@ -12,15 +12,12 @@ Most of my day-to-day involves:
 - Documenting processes and decisions
 
 ## ✍️ What I write about
-I like answering questions I’ve asked myself — and probably ones you've asked too. Most of my posts live on [Medium](https://medium.com/@anitalakhadze).
+Most of my posts live on [Medium](https://medium.com/@anitalakhadze). I like answering questions I’ve asked myself — and probably ones you've asked too. 
 
-If you've ever googled something like:
 - What is software entropy?
 - Should I squash my Git commits?
 - Why is OpenFeign so much nicer than WebClient?
-- How🤸🏻‍♀️to write a proper custom validator in Spring Boot?
-
-... then you'll probably find something useful there.
+- How to write a proper custom validator in Spring Boot?
 
 ## 📫 How to reach me
 - [Email](mailto:talakhadzeani@gmail.com)  
@@ -33,8 +30,6 @@ I’ve argued more about naming things than about actual business logic 🤭
 ---
 
 > *“Powered by coffee ☕️”* — a motto that applies to every problem solved and every idea explored.
-
-Thanks for stopping by! 🤸🏻‍♀️
 
 <!--
 **anitalakhadze/anitalakhadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
