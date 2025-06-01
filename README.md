@@ -20,7 +20,7 @@ If you've ever googled something like:
 - What is software entropy?
 - Should I squash my Git commits?
 - Why is OpenFeign so much nicer than WebClient?
-- How to write a proper custom validator in Spring Boot?
+- How🤸🏻‍♀️to write a proper custom validator in Spring Boot?
 
 ... then you'll probably find something useful there.
 
@@ -34,9 +34,9 @@ I’ve argued more about naming things than about actual business logic 🤭
 
 ---
 
-> *“Mostly harmless.”* — a motto that applies to my code and my approach to learning.
+> *“Powered by coffee ☕️”* — a motto that applies to every problem solved and every idea explored.
 
-Thanks for stopping by!
+Thanks for stopping by! 🤸🏻‍♀️
 
 <!--
 **anitalakhadze/anitalakhadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
