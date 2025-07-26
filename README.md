@@ -28,7 +28,7 @@ I’ve argued more about naming things than about actual business logic.
 
 ---
 
-> *“Powered by coffee ☕️”* — a motto that applies to every problem solved and every idea explored.
+> *“Powered by coffee ☕️”*
 
 <!--
 **anitalakhadze/anitalakhadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
