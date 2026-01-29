@@ -1,6 +1,6 @@
 # Hi, I'm Anita 🍋
 
-I’m a Java backend developer who builds practical systems and writes about the parts most tutorials skip. I work with Spring Boot and care about clear, understandable code.
+I’m a software engineer who builds practical systems and writes about the parts most tutorials skip. I care about clear, understandable code.
 
 ## 🛠️ What I usually work with
 - Building and maintaining Spring Boot microservices with IntelliJ IDEA
@@ -11,7 +11,7 @@ I’m a Java backend developer who builds practical systems and writes about the
 - Documenting processes and decisions
 
 ## 📝 What I write about
-Most of my blogs live on [Medium](https://medium.com/@anitalakhadze). I like answering questions I’ve asked myself — and probably ones you've asked too:
+My blogs live [here](https://www.anitalakhadze.dev/). I like answering questions I’ve asked myself - and probably ones you've asked too:
 
 - What is software entropy?
 - Should I squash my Git commits?
