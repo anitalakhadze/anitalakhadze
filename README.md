@@ -3,8 +3,8 @@
 I am a product engineer. I build software from two directions: 
 - professionally, as a Java backend developer in fintech and regtech, working on maintainable backend systems, complex business logic, and reliable integrations;
 - and independently, by building and launching my own products end to end.
--   [Grainient](https://apps.apple.com/ge/app/grainient/id6761453920)
--   [ChocoBerry](https://apps.apple.com/ge/app/chocoberry/id6764864813)
+  - [Grainient](https://apps.apple.com/ge/app/grainient/id6761453920)
+  - [ChocoBerry](https://apps.apple.com/ge/app/chocoberry/id6764864813)
 
 
 I’m interested in the space between backend engineering, architecture, AI, developer experience, and product thinking — not just how to build something, but why it should be built that way. 
