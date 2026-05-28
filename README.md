@@ -9,9 +9,7 @@ I am a product engineer. I build software from two directions:
 
 I’m interested in the space between backend engineering, architecture, AI, developer experience, and product thinking — not just how to build something, but why it should be built that way. 
 
-I also write about software, AI, architecture, and how technology changes the way we work.
-
-I’m a software engineer who builds practical systems and writes about the parts most tutorials skip. I care about clear, understandable code.
+I also write on [my personal website](https://www.anitalakhadze.dev) about software, AI, architecture, and how technology changes the way we work.
 
 ## 🕊️ How to reach me
 - [Email](mailto:talakhadzeani@gmail.com)  
