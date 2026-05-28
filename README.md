@@ -1,34 +1,25 @@
 # Hi, I'm Anita 🍋
 
+I am a product engineer. I build software from two directions: 
+- professionally, as a Java backend developer in fintech and regtech, working on maintainable backend systems, complex business logic, and reliable integrations;
+- and independently, by building and launching my own products end to end.
+-   [Grainient](https://apps.apple.com/ge/app/grainient/id6761453920)
+-   [ChocoBerry](https://apps.apple.com/ge/app/chocoberry/id6764864813)
+
+
+I’m interested in the space between backend engineering, architecture, AI, developer experience, and product thinking — not just how to build something, but why it should be built that way. 
+
+I also write about software, AI, architecture, and how technology changes the way we work.
+
 I’m a software engineer who builds practical systems and writes about the parts most tutorials skip. I care about clear, understandable code.
-
-## 🛠️ What I usually work with
-- Building and maintaining Spring Boot microservices with IntelliJ IDEA
-- Working with MongoDB and PostgreSQL
-- Writing unit tests and integration tests using Cucumber
-- Working with Docker and GitLab CI for builds and pipelines, often on OpenShift
-- Communicating with teammates and business representatives
-- Documenting processes and decisions
-
-## 📝 What I write about
-My blogs live [here](https://www.anitalakhadze.dev/). I like answering questions I’ve asked myself - and probably ones you've asked too:
-
-- What is software entropy?
-- Should I squash my Git commits?
-- Is OpenFeign better than WebClient?
-- How to write a proper custom validator?
 
 ## 🕊️ How to reach me
 - [Email](mailto:talakhadzeani@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/ani-t-4961b210b/)  
-- [Medium](https://medium.com/@anitalakhadze)  
+- [LinkedIn](https://www.linkedin.com/in/ani-t-4961b210b/)
+- Pigeons could also work, but I would not call them reliable.
 
-## 🤸🏻‍♀️ Fun fact
-I’ve argued more about naming things than about actual business logic.
-
----
-
-> *“Powered by coffee ☕️”*
+Cheers,
+🤸🏻‍♀️
 
 <!--
 **anitalakhadze/anitalakhadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
