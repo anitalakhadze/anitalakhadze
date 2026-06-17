@@ -3,6 +3,7 @@
 I am a product engineer. I build software from two directions: 
 - professionally, as a Java backend developer in fintech and regtech, working on maintainable backend systems, complex business logic, and reliable integrations;
 - and independently, by building and launching my own products end to end.
+  - [Edoku](https://apple.co/43EGI9O)
   - [Grainient](https://apps.apple.com/ge/app/grainient/id6761453920)
   - [ChocoBerry](https://apps.apple.com/ge/app/chocoberry/id6764864813)
 
